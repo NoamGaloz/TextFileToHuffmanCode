@@ -1,0 +1,4 @@
+Character encoding:
+'7' - 1
+
+Encoded file weight: 10 bits
